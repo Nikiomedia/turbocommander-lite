@@ -2,7 +2,7 @@
 
 All notable changes to TurboCommander Lite are listed here.
 
-## Unreleased
+## 0.3.0 – 2026-11-26
 
 First edition of **TurboCommander Lite**, the free edition of TurboCommander, based on TurboCommander 0.3.0.
 
