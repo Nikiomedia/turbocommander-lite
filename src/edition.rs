@@ -6,8 +6,8 @@ use crate::lang::t;
 /// Name dieser Ausgabe, wie er im Programm erscheint
 pub const NAME: &str = "TurboCommander Lite";
 
-/// Wo es die Vollversion gibt (zum Beispiel die Patreon-Seite). Leer: der Knopf „Zur Vollversion" fehlt.
-pub const FULL_VERSION_URL: &str = "";
+/// Wo es die Vollversion gibt: der Beitrag auf Patreon. Leer: der Knopf „Zur Vollversion" fehlt.
+pub const FULL_VERSION_URL: &str = "https://www.patreon.com/nikomedia/posts/turbocommander-0-176452581";
 
 /// Was die Vollversion zusätzlich kann: (Symbol, Titel, Beschreibung)
 pub fn full_features() -> [(&'static str, &'static str, &'static str); 12] {

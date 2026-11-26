@@ -21,8 +21,7 @@ actually use every day and built to feel instant. It starts in about a third of 
 of about 10 MB and keeps its hands off your system: no installer, no services, no telemetry.
 
 It is free to use. The **full version of TurboCommander** adds batch rename, FTP/SFTP, folder compare and more –
-see [Lite and full version](#lite-and-full-version).
-<!-- Link zur Vollversion (Patreon) hier und in src/edition.rs (FULL_VERSION_URL) eintragen. -->
+see [Lite and full version](#lite-and-full-version). It is available to supporters on [Patreon](https://www.patreon.com/nikomedia/posts/turbocommander-0-176452581).
 
 ## Features
 
@@ -75,6 +74,7 @@ see [Lite and full version](#lite-and-full-version).
 | Transfer list with pause and resume | | ✓ |
 
 *Menu → What the full version adds …* shows the same list inside the program.
+**[Get the full version on Patreon](https://www.patreon.com/nikomedia/posts/turbocommander-0-176452581)**
 
 ## Screenshots
 

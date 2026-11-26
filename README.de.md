@@ -22,8 +22,8 @@ Drittelsekunde, besteht aus einer einzigen Datei von rund 10 MB und lässt das S
 Installation, keine Dienste, keine Datenübertragung an irgendwen.
 
 Die Nutzung ist kostenlos. Die **Vollversion von TurboCommander** kann zusätzlich mehrfach umbenennen, FTP/SFTP,
-Ordner vergleichen und mehr – siehe [Lite und Vollversion](#lite-und-vollversion).
-<!-- Link zur Vollversion (Patreon) hier und in src/edition.rs (FULL_VERSION_URL) eintragen. -->
+Ordner vergleichen und mehr – siehe [Lite und Vollversion](#lite-und-vollversion). Es gibt sie für Unterstützer auf
+[Patreon](https://www.patreon.com/nikomedia/posts/turbocommander-0-176452581).
 
 ## Funktionen
 
@@ -77,6 +77,7 @@ Ordner vergleichen und mehr – siehe [Lite und Vollversion](#lite-und-vollversi
 | Übertragungsliste mit Anhalten und Fortsetzen | | ✓ |
 
 *Menü → Was die Vollversion mehr kann …* zeigt diese Liste auch im Programm.
+**[Zur Vollversion auf Patreon](https://www.patreon.com/nikomedia/posts/turbocommander-0-176452581)**
 
 ## Bilder
 

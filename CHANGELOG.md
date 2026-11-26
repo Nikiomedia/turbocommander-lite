@@ -17,7 +17,7 @@ theme, English and German, settings backup.
 Batch rename, FTP/FTPS/SFTP, comparing and syncing folders, video and music playback in the quick view, Media Info
 and media columns, search inside files and by size and date, *What is locking this file?*, custom tools,
 workspaces, the gallery, 7z/RAR/TAR archives and the transfer list. Their keyboard shortcuts show a short note, and
-*Menu → What the full version adds …* lists them.
+*Menu → What the full version adds …* lists them and leads to the full version on Patreon.
 
 ### Different from the full version
 - Settings live in `%APPDATA%\TurboCommander Lite`, so both editions can be used on the same PC without touching
